@@ -1,0 +1,4 @@
+# Ignorar datasets grandes
+*.csv
+*.xlsx
+*.xls
